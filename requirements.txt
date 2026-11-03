@@ -1,0 +1,1 @@
+streamlit>=1.40,<2\npandas>=2.0,<3\nnumpy>=1.24,<3\nscikit-learn>=1.3,<2\n
